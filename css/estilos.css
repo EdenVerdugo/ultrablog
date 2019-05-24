@@ -42,5 +42,14 @@ body {
 
 #container #post {
     padding: 1em;
-    background: white;
+}
+
+#container #footer {
+    background: #33A;
+    padding: 1em 2em;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    box-shadow: 0px 2px 50px 0px rgba(0, 0, 0, 0.75);
+    font-weight: bold;
 }
